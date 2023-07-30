@@ -1,4 +1,4 @@
-# LP2: Classification
+# LP2: ML Classification
 
 Short description
 
