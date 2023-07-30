@@ -1,4 +1,4 @@
-# First Session of LP2: Classification
+# LP2: Classification
 
 Short description
 
