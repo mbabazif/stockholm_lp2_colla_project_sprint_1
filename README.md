@@ -1,6 +1,6 @@
-# LP2: ML Classification
+# LP2: ML Classification -- Predicting Customer Churn
 
-Short description
+description
 
 ## Overview
 
