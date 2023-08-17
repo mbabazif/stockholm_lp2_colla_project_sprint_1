@@ -60,7 +60,7 @@ Formulate effective strategies for customer retention based on the analysis.
 
 ## Setup / Config
 
-git clone https://github.com/mbabazif/LP2_customer_churn_analysis_sprint2
+git clone https://github.com/mbabazif/stockholm_lp2_colla_project_sprint_1
 
 pip install -r requirements.txt
 
