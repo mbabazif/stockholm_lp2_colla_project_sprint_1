@@ -53,13 +53,17 @@ Churn: Whether the customer churned (Yes) or not (No).
 ## Goals
 
 Predict customer churn based on the provided attributes.
+
 Identify key indicators that significantly influence customer churn.
+
 Formulate effective strategies for customer retention based on the analysis.
 
 ## Setup / Config
 
 git clone https://github.com/mbabazif/LP2_customer_churn_analysis_sprint2
+
 pip install -r requirements.txt
+
 Run the provided scripts to preprocess the data and perform the machine learning tasks.
 
 ## Images
