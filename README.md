@@ -72,6 +72,3 @@ Run the provided scripts to preprocess the data and perform the machine Learning
 ![Average Total Charges_by_charn_Status](https://github.com/mbabazif/stockholm_lp2_colla_project_sprint_1/assets/45567777/66270c3e-e9fa-46fa-9d2f-8aa3f63fb26f)
 
 
-
-
-## Authors & Contributors
